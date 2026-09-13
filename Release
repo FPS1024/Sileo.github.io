@@ -1,0 +1,8 @@
+Origin: FPS1024
+Label: FPS1024 Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: FPS1024 Personal Sileo Repository
